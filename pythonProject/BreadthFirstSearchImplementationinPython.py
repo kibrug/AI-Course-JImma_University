@@ -8,7 +8,7 @@
    3.1. Pop the front node from the queue
    3.2. Push the child/neighbor nodes of the front node to the queue
    3.3  Mark them as visited and print
-   
+
 """
 
 def bfs(graph, source):
