@@ -19,7 +19,11 @@ def list_Function():
     d = input("Frist input\n")
     e = input("Frist input\n")
     alllist.append(a)
+    alllist.append(b)
+    alllist.append(c)
+    alllist.append(d)
+    alllist.append(e)
     print(alllist)
+    #print(alllist.count())
+list_Function()
 
-
-    pass
